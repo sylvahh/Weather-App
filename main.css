@@ -6,7 +6,6 @@
 
 body {
   font-family: 'Trebuchet MS';
-  background-image: url('../MarioClub/img/courtney-allegra-cinnabon-promo.jpg');
   background-size: cover;
   background-position: top center;
 }
@@ -100,9 +99,8 @@ main {
 }
 
 h1 {
-  color: white;
+  color: black;
   font-size: 24px;
-  text-shadow: 0px 4px black;
   text-align: center;
   transition: 1s;
   
@@ -110,7 +108,7 @@ h1 {
 }
 
 h1:hover{
-  color: white;
-  transform: rotate(360deg);
+  color: black;
+
  
 }
